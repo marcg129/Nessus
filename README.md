@@ -1,4 +1,4 @@
-<h1>Nessus Vulnerability Management</h1>
+<h1>Vulnerability Management with Nessus Essentials</h1>
 
 <!--
  ### [YouTube Demonstration](https://youtu.be/YOURLINK)
